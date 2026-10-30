@@ -1036,6 +1036,40 @@
     },
     "build_number": 6902
   },
+  "26.38.1": {
+    "signature_scheme": "v3",
+    "certificate_count": 1,
+    "certificate_meta_sha256": "1684414033eb263e2c615f8b7df5ed8793850a07656304997fbf07e9e21e1e93",
+    "certificate_sha256": [
+      "1684414033eb263e2c615f8b7df5ed8793850a07656304997fbf07e9e21e1e93"
+    ],
+    "dex_meta_sha256": "f4fdfd9512c1928330d159e81ad4db683d29e72fdd2427fad0efdcce75c1bb6e",
+    "so_meta_sha256_arm64_v8a": "48481d5351542f8c1d829481bb35e19c2a51db3d4dcf3e4517017f86a2faa3f5",
+    "so_meta_sha256": {
+      "arm64-v8a": "48481d5351542f8c1d829481bb35e19c2a51db3d4dcf3e4517017f86a2faa3f5",
+      "armeabi-v7a": "60d37d0b56883f58dbc38633afda08e7ffaa612ad7d3188aa9cbe9bb5a6beb47",
+      "x86": "883c8e661e4c7e6011a1efc2ea369513e23c24b94ad182069e621a2e2fde931a",
+      "x86_64": "86bd70ada8bf8ff5c591ab96f5e4dd52564ad0b4faa8d31c4d85d4f1ac7ad20a"
+    },
+    "build_number": 6907
+  },
+  "26.38.2": {
+    "signature_scheme": "v3",
+    "certificate_count": 1,
+    "certificate_meta_sha256": "1684414033eb263e2c615f8b7df5ed8793850a07656304997fbf07e9e21e1e93",
+    "certificate_sha256": [
+      "1684414033eb263e2c615f8b7df5ed8793850a07656304997fbf07e9e21e1e93"
+    ],
+    "dex_meta_sha256": "56f020b47a6460bbef3edc7075ece1d2672d0c49f9991adf725f53a09aa94b50",
+    "so_meta_sha256_arm64_v8a": "48481d5351542f8c1d829481bb35e19c2a51db3d4dcf3e4517017f86a2faa3f5",
+    "so_meta_sha256": {
+      "arm64-v8a": "48481d5351542f8c1d829481bb35e19c2a51db3d4dcf3e4517017f86a2faa3f5",
+      "armeabi-v7a": "60d37d0b56883f58dbc38633afda08e7ffaa612ad7d3188aa9cbe9bb5a6beb47",
+      "x86": "883c8e661e4c7e6011a1efc2ea369513e23c24b94ad182069e621a2e2fde931a",
+      "x86_64": "86bd70ada8bf8ff5c591ab96f5e4dd52564ad0b4faa8d31c4d85d4f1ac7ad20a"
+    },
+    "build_number": 6911
+  },
   "26.9.1": {
     "signature_scheme": "v3",
     "certificate_count": 1,
