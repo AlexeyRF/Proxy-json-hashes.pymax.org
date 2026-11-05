@@ -1070,6 +1070,23 @@
     },
     "build_number": 6911
   },
+  "26.39.0": {
+    "signature_scheme": "v3",
+    "certificate_count": 1,
+    "certificate_meta_sha256": "1684414033eb263e2c615f8b7df5ed8793850a07656304997fbf07e9e21e1e93",
+    "certificate_sha256": [
+      "1684414033eb263e2c615f8b7df5ed8793850a07656304997fbf07e9e21e1e93"
+    ],
+    "dex_meta_sha256": "6d5a40b684aa844984ba35c4db3b7abeb139d2ea1557f9aca105aebfc9eb1f90",
+    "so_meta_sha256_arm64_v8a": "2f786171938ea3a213efd3b143f83a92190d2c422a258fa7c4609bdb81bae736",
+    "so_meta_sha256": {
+      "arm64-v8a": "2f786171938ea3a213efd3b143f83a92190d2c422a258fa7c4609bdb81bae736",
+      "armeabi-v7a": "38cf945d77e862233fd2bc7bb5aac98a43c9c20f42b66cd1d2f3d287740dd1eb",
+      "x86": "192eb05f59838af9e9fea98ed47bc39fc9bc41dfc4bcb621baecb6c8a9b1a2c4",
+      "x86_64": "2d329bef0847fa945b24acb6a628bdc27a956c067ee6dd8a39d810550efc07c1"
+    },
+    "build_number": 6915
+  },
   "26.9.1": {
     "signature_scheme": "v3",
     "certificate_count": 1,
